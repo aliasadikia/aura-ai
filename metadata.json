@@ -1,0 +1,6 @@
+{
+  "name": "ORION AI",
+  "description": "پلتفرم جامع هوش مصنوعی ORION AI با تم زره فلزی کروم، نورهای فیروزه‌ای درخشان و جرقه عصبی طلایی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
